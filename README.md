@@ -16,9 +16,9 @@ Chata is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/
 
 
 
-## Danh Hong
+## Authors
 
-
+[Danh Hong](http://www.khmertype.org)
 
 To see the history of the project or for other information please see the FONTLOG.txt 
 
